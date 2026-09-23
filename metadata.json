@@ -1,0 +1,6 @@
+{
+  "name": "VoxelSync IIoT - 3D Printing Cloud Platform",
+  "description": "Industrial IoT cloud platform for FDM 3D printer monitoring, remote control, sensor telemetry, predictive maintenance, and AI-driven fault detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
